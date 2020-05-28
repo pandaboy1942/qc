@@ -13,4 +13,4 @@ If you are find a solution to clean your Windows PC, hurray you are find correct
 
 
 #
-[![SourceFOrge](https://sourceforge.net/sflogo.php?type=13&group_id=3226819)](https://sourceforge.net/)
+[![Download Quick Cleanup for Windows](https://sourceforge.net/sflogo.php?type=11&group_id=3226819)](https://sourceforge.net/p/quick-cleanup-for-windows/)
