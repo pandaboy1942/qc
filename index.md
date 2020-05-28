@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## WELCOME TO THE PAGE OF WINDOWS QUICK CLEANUP
+[![Download Quick Cleanup for Windows](https://img.shields.io/sourceforge/dt/quick-cleanup-for-windows.svg)](https://sourceforge.net/projects/quick-cleanup-for-windows/files/latest/download)
 
-You can use the [editor on GitHub](https://github.com/pandaboy1942/qc-windows/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you are find a solution to clean your Windows PC, hurray you are find correct place. There you are. Download it now
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Download Quick Cleanup for Windows](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/quick-cleanup-for-windows/files/latest/download)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pandaboy1942/qc-windows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#
+[![SourceFOrge](https://sourceforge.net/sflogo.php?type=13&group_id=3226819)](https://sourceforge.net/)
