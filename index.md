@@ -5,6 +5,8 @@ If you are find a solution to clean your Windows PC, hurray you are find correct
 
 [![Download Quick Cleanup for Windows](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/quick-cleanup-for-windows/files/latest/download)
 
+[Other Download](/odl)
+
 
 
 
