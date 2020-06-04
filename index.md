@@ -18,8 +18,4 @@ If you are find a solution to clean your Windows PC, hurray you are find correct
 [![Download Quick Cleanup for Windows](https://sourceforge.net/sflogo.php?type=11&group_id=3226819)](https://sourceforge.net/p/quick-cleanup-for-windows/)
 
 --------------------
-Dev Boi note:
-`` 
-Peace was not an options to me if you download this free
-``
-[Donation 0,5 dollars](https://pandaboy1942.github.io/qc/donation.html "Donation 0,5 dollars")
+[DONATE](https://pandaboy1942.github.io/qc/donation.html "Donation 0,5 dollars")
