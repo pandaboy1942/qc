@@ -5,7 +5,7 @@ If you are find a solution to clean your Windows PC, hurray you are find correct
 
 [![Download Quick Cleanup for Windows](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/quick-cleanup-for-windows/files/latest/download)
 
-[Other Download](qc/odl)
+[Other Download](odl)
 
 
 
@@ -18,4 +18,4 @@ If you are find a solution to clean your Windows PC, hurray you are find correct
 [![Download Quick Cleanup for Windows](https://sourceforge.net/sflogo.php?type=11&group_id=3226819)](https://sourceforge.net/p/quick-cleanup-for-windows/)
 
 --------------------
-[DONATE](https://pandaboy1942.github.io/qc/donation.html "Donation 0,5 dollars")
+[DONATE](donation "Donation 0,5 dollars")
