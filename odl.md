@@ -7,5 +7,5 @@
 |Mac| Comming soon  |
 
 --------------------
-[DONATE](https://pandaboy1942.github.io/qc/donation.html "Donation 0,5 dollars")
+[DONATE](donation "Donation 0,5 dollars")
 
